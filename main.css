@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+main{
+    background-color: black;
+    color: white;
+    
+}
+main ul{
+    display: flex;
+    
+    font-size: larger;
+
+
+}
+main li{
+    text-decoration: none;
+    padding: 1rem;
+    margin: o 0.5rem;
+    align-items: flex-end;}
+
+    h1{
+        text-align: center;
+    }
+    ul li{
+        text-decoration: none;
+        align-content: flex-end;
+    }
